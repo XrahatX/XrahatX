@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/Status-Online-00FF88?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
 </p>
 
----
+![Snake animation](https://github.com/XrahatX/XrahatX/blob/output/github-contribution-grid-snake.svg)
